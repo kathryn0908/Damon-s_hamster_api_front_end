@@ -1,0 +1,22 @@
+#create-form{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+
+#create-form input{
+    padding: 5px;
+    border-radius: 6px;
+    justify-content: space-evenly;
+}
+#update-form{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+
+#update-form input{
+    padding: 5px;
+    border-radius: 6px;
+    justify-content: space-evenly;
+}
